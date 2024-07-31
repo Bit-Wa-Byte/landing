@@ -1,0 +1,2319 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Vamcaster",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter",
+            "screenshot": "screenshots\/newsletter.jpg",
+            "source": "templates\/newsletter.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/newsletter\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blogs",
+            "screenshot": "screenshots\/blogs.jpg",
+            "source": "templates\/blogs.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/blogs\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Latest Podcasts",
+            "screenshot": "screenshots\/latest-podcasts.jpg",
+            "source": "templates\/latest-podcasts.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/latest-podcasts\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/about-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hosts",
+            "screenshot": "screenshots\/hosts.jpg",
+            "source": "templates\/hosts.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/hosts\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.17.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.7.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Frame-295.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Frame-295.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 2447,
+            "dimensions": [
+                136,
+                79
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1548.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1548.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1317,
+            "dimensions": [
+                88,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1547.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1547.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1417,
+            "dimensions": [
+                88,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoipsum-233.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/logoipsum-233.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1140,
+            "dimensions": [
+                100,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Frame-296.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Frame-296.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 1573,
+            "dimensions": [
+                84,
+                49
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Ooops.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Ooops.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 10263,
+            "dimensions": [
+                1108,
+                260
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1565.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-1565.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 60533,
+            "dimensions": [
+                1920,
+                402
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 613,
+            "dimensions": [
+                47,
+                48
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Union.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Union.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 488,
+            "dimensions": [
+                41,
+                48
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Vector.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 388,
+            "dimensions": [
+                53,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Vector-1.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 592,
+            "dimensions": [
+                47,
+                48
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 439,
+            "dimensions": [
+                49,
+                34
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coming-soon-bg-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/coming-soon-bg-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 37295,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/studio-microphone-on-dark-background-GC7G5UB"
+        },
+        {
+            "filename": "about-banner-1-2-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/about-banner-1-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blogs.json",
+                    "name": "Blogs"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 132708,
+            "dimensions": [
+                1920,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-young-people-in-broadcasting-studio-LRSEWRB"
+        },
+        {
+            "filename": "Group-1526-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1526-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5338,
+            "dimensions": [
+                1920,
+                609
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "upcoming-img-1-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/upcoming-img-1-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 19040,
+            "dimensions": [
+                368,
+                454
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/caucasian-man-listening-podcast-on-his-wireless-he-4P7UQJ5"
+        },
+        {
+            "filename": "upcoming-img-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/upcoming-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 162143,
+            "dimensions": [
+                368,
+                378
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-podcaster-working-in-sound-studio-FBCYA33"
+        },
+        {
+            "filename": "review-2-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/review-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8921,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-successful-businessman-wearing-shirt-7FHVVB8"
+        },
+        {
+            "filename": "review-2-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/review-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 24723,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-posing-in-the-street-PHYUXWY"
+        },
+        {
+            "filename": "Mask-group.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/Mask-group.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 37439,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/redhead-girl-with-suitcase-sitting-at-autumn-grass-FNQ84AH"
+        },
+        {
+            "filename": "review-2-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/review-2-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 10273,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-afro-american-man-8LTQ25F"
+        },
+        {
+            "filename": "Group-6.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-6.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2389,
+            "dimensions": [
+                54,
+                47
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/entertainment-icons-8NT648E"
+        },
+        {
+            "filename": "Group-5.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-5.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2058,
+            "dimensions": [
+                30,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/entertainment-icons-8NT648E"
+        },
+        {
+            "filename": "Vector-3.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Vector-3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3860,
+            "dimensions": [
+                52,
+                47
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/entertainment-icons-8NT648E"
+        },
+        {
+            "filename": "banner-podcaster-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/banner-podcaster-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 194548,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/microphone-in-recording-studio-U4H7BSL"
+        },
+        {
+            "filename": "mic-headphone-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/mic-headphone-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 236830,
+            "dimensions": [
+                416,
+                435
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vintage-microphone-and-headphones-concept-audio-an-PNKSUSV"
+        },
+        {
+            "filename": "Ellipse-173.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/Ellipse-173.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 18365,
+            "dimensions": [
+                669,
+                55
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "faq-banner-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/faq-banner-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 78981,
+            "dimensions": [
+                1920,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/microphone-in-recording-studio-for-singing-HQHYG9W"
+        },
+        {
+            "filename": "Vector-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Vector-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 533,
+            "dimensions": [
+                35,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Union-3-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Union-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 405,
+            "dimensions": [
+                30,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-2.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 417,
+            "dimensions": [
+                35,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Vector-2.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 327,
+            "dimensions": [
+                39,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1-3.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 370,
+            "dimensions": [
+                36,
+                26
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Union-2-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Union-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17552,
+            "dimensions": [
+                664,
+                422
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "latest-eppisodes-1-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/latest-eppisodes-1-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                }
+            ],
+            "filesize": 66348,
+            "dimensions": [
+                916,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-people-singing-on-microphone-at-the-radio-st-JLYJMJK"
+        },
+        {
+            "filename": "Group-1565-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-1565-2.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                }
+            ],
+            "filesize": 60351,
+            "dimensions": [
+                1920,
+                474
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1592-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-1592-2.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17695,
+            "dimensions": [
+                2176,
+                1530
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "recent-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/recent-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 16925,
+            "dimensions": [
+                302,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-recording-podcast-online-N9BRRTN"
+        },
+        {
+            "filename": "recent-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/recent-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14252,
+            "dimensions": [
+                302,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/caucasian-woman-recording-online-podcast-discussio-YP6VCCC"
+        },
+        {
+            "filename": "recent-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/recent-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17031,
+            "dimensions": [
+                302,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-wearing-headphones-and-using-laptop-record-p-BCURXBL"
+        },
+        {
+            "filename": "recent-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/recent-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                }
+            ],
+            "filesize": 137903,
+            "dimensions": [
+                302,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teenage-blogger-recording-podcast-LXKPXBB"
+        },
+        {
+            "filename": "recent-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/recent-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                }
+            ],
+            "filesize": 118984,
+            "dimensions": [
+                302,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vlogger-recording-video-for-online-podcast-and-loo-2C2KAZ9"
+        },
+        {
+            "filename": "recent-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/recent-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                }
+            ],
+            "filesize": 156459,
+            "dimensions": [
+                302,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-podcaster-recording-audio-podcast-on-laptop--K4FVF6B"
+        },
+        {
+            "filename": "Group-1592.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1592.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 24111,
+            "dimensions": [
+                1170,
+                757
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-1A-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/banner-1A-1.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 43281,
+            "dimensions": [
+                356,
+                376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/relaxed-woman-in-headphones-enjoying-music-V3JBQBD"
+        },
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2518,
+            "dimensions": [
+                183,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-763.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-763.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 386,
+            "dimensions": [
+                44,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1871,
+            "dimensions": [
+                152,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-764.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-764.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2067,
+            "dimensions": [
+                163,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-765.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-765.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3126,
+            "dimensions": [
+                160,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2022,
+            "dimensions": [
+                195,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-767.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-767.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1494,
+            "dimensions": [
+                164,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-768-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-768-1.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1644,
+            "dimensions": [
+                163,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-769.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-769.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1169,
+            "dimensions": [
+                66,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-3.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1929,
+            "dimensions": [
+                151,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-770.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-770.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2567,
+            "dimensions": [
+                162,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-762.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-762.png",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1378,
+            "dimensions": [
+                95,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "how-are-you-4-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/how-are-you-4-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/latest-podcasts.json",
+                    "name": "Latest Podcasts"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5569,
+            "dimensions": [
+                193,
+                193
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/music-fitness-and-black-woman-training-in-the-city-WD2Q654"
+        },
+        {
+            "filename": "upcoming-img-1-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/upcoming-img-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 24909,
+            "dimensions": [
+                368,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-recording-podcast-with-studio-microphone-6D5S44L"
+        },
+        {
+            "filename": "about-img-2-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/about-img-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15991,
+            "dimensions": [
+                368,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/podcaster-waving-his-subscribers-FNKRZQK"
+        },
+        {
+            "filename": "Group-1536.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Group-1536.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2538,
+            "dimensions": [
+                47,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mask-group-1-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Mask-group-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17587,
+            "dimensions": [
+                1920,
+                738
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/metal-retro-microphone-vintage-microphone-ST3KWL6"
+        },
+        {
+            "filename": "about-img-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/about-img-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 32080,
+            "dimensions": [
+                470,
+                523
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-portrait-of-man-recording-online-podcast-w-JJTWZB9"
+        },
+        {
+            "filename": "Volume-Down.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Volume-Down.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 570,
+            "dimensions": [
+                36,
+                32
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3-User.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/3-User.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 863,
+            "dimensions": [
+                44,
+                34
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ceo-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/ceo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4716,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-successful-businessman-wearing-shirt-7FHVVB8"
+        },
+        {
+            "filename": "01_team.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/01_team.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9820,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-confident-asian-man-AA38B6M"
+        },
+        {
+            "filename": "02_team.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/02_team.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12814,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/posing-in-dark-background-hipster-guy-with-glasses-RQAQW7V"
+        },
+        {
+            "filename": "03_team.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/03_team.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15347,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-black-man-with-glasses-and-fur-coat-JULV8HX"
+        },
+        {
+            "filename": "04_team.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/04_team.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17437,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-serious-business-person-with-gray-background-beh-RBAU766"
+        },
+        {
+            "filename": "Rectangle-42-1-2.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/Rectangle-42-1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 107458,
+            "dimensions": [
+                1919,
+                778
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "mic-1-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/mic-1-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 29681,
+            "dimensions": [
+                214,
+                352
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/metal-retro-microphone-vintage-microphone-ST3KWL6"
+        },
+        {
+            "filename": "profile-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/profile-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 77356,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-confident-asian-man-AA38B6M"
+        },
+        {
+            "filename": "profile-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/profile-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 46654,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/posing-in-dark-background-hipster-guy-with-glasses-RQAQW7V"
+        },
+        {
+            "filename": "profile-3-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/profile-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 18063,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-serious-business-person-with-gray-background-beh-RBAU766"
+        },
+        {
+            "filename": "profile-4-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/09\/profile-4-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 15519,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-black-man-with-glasses-and-fur-coat-JULV8HX"
+        },
+        {
+            "filename": "profile-5.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/profile-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 117350,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-young-singer-portrait-at-studio-BBN9P4L"
+        },
+        {
+            "filename": "profile-6.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/profile-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 65115,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-in-eyeglasses-portrait-PJY5FSK"
+        },
+        {
+            "filename": "profile-7.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/profile-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 81323,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/purple-woman-fashion-trendy-yellow-light-green-dis-HBZMCG6"
+        },
+        {
+            "filename": "profile-8.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/profile-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hosts.json",
+                    "name": "Hosts"
+                }
+            ],
+            "filesize": 112743,
+            "dimensions": [
+                270,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-beautiful-woman-during-festival-ZS224H5"
+        },
+        {
+            "filename": "Untitled-1-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/Untitled-1-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 147232,
+            "dimensions": [
+                1920,
+                830
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-american-podcaster-greeting-guest-doing-fi-DKYLJBU"
+        },
+        {
+            "filename": "Mask-group-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/10\/Mask-group-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 182463,
+            "dimensions": [
+                1920,
+                830
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-podcast-recording-3XXER2D"
+        },
+        {
+            "filename": "blog-2-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/blog-2-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 47772,
+            "dimensions": [
+                670,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-american-people-chatting-on-podcast-talk-s-YFHKG8M"
+        },
+        {
+            "filename": "upcoming-img-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/upcoming-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17170,
+            "dimensions": [
+                368,
+                398
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-young-radio-dj-at-work-YL2VWRX"
+        },
+        {
+            "filename": "upcoming-img2-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/upcoming-img2-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 38672,
+            "dimensions": [
+                368,
+                256
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-recording-podcast-online-N9BRRTN"
+        },
+        {
+            "filename": "how-are-you-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/how-are-you-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15401,
+            "dimensions": [
+                193,
+                471
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-african-recording-podcast-from-home-5T24H88"
+        },
+        {
+            "filename": "how-are-you-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/how-are-you-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13645,
+            "dimensions": [
+                193,
+                452
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/older-man-with-gray-hair-and-female-guest-in-a-rec-DUTGTJB"
+        },
+        {
+            "filename": "how-are-you-5-1-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/how-are-you-5-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6960,
+            "dimensions": [
+                193,
+                193
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/microphone-in-recording-studio-for-singing-HQHYG9W"
+        },
+        {
+            "filename": "how-are-you-3-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/how-are-you-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9530,
+            "dimensions": [
+                193,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/podcaster-sitting-in-studio-CWQATAT"
+        },
+        {
+            "filename": "Group-1492.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/Group-1492.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 919,
+            "dimensions": [
+                47,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "faq-banner-1-1-1.png",
+            "thumbnail_url": "https:\/\/template-kit.evonicmedia.com\/layout30\/wp-content\/uploads\/2023\/08\/faq-banner-1-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 287832,
+            "dimensions": [
+                1920,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/microphone-in-recording-studio-for-singing-HQHYG9W"
+        }
+    ]
+}
