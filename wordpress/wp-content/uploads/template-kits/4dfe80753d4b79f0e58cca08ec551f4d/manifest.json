@@ -1,0 +1,1665 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "PodSay - Radio & Podcast Station Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.2.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Before Footer",
+            "screenshot": "screenshots\/before-footer.jpg",
+            "source": "templates\/before-footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/before-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact Form",
+            "screenshot": "screenshots\/metform-contact-form.jpg",
+            "source": "templates\/metform-contact-form.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/metform-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/home-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog \/ Podcast 1",
+            "screenshot": "screenshots\/blog-podcast-1.jpg",
+            "source": "templates\/blog-podcast-1.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/our-podcast\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Podcast 2",
+            "screenshot": "screenshots\/podcast-2.jpg",
+            "source": "templates\/podcast-2.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/podcast-alt\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Podcast Detail",
+            "screenshot": "screenshots\/podcast-detail.jpg",
+            "source": "templates\/podcast-detail.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/podcast-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing List",
+            "screenshot": "screenshots\/pricing-list.jpg",
+            "source": "templates\/pricing-list.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/pricing-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Programs",
+            "screenshot": "screenshots\/programs.jpg",
+            "source": "templates\/programs.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/pogram-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Program",
+            "screenshot": "screenshots\/single-program.jpg",
+            "source": "templates\/single-program.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/podsay\/template-kit\/single-program\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.3.2",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.25",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.19.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "podsay_logo.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/podsay_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 6215,
+            "dimensions": [
+                360,
+                76
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "african-guy-listening-music-using-smartphone-weari-2021-09-03-07-41-56-utc_isolatedpng.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/african-guy-listening-music-using-smartphone-weari-2021-09-03-07-41-56-utc_isolatedpng.png",
+            "templates": [
+                {
+                    "source": "templates\/before-footer.json",
+                    "name": "Before Footer"
+                }
+            ],
+            "filesize": 27595,
+            "dimensions": [
+                244,
+                324
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-guy-listening-music-using-smartphone-weari-M48AT54"
+        },
+        {
+            "filename": "wave_amplitud.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/wave_amplitud-800x197.png",
+            "templates": [
+                {
+                    "source": "templates\/before-footer.json",
+                    "name": "Before Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 13716,
+            "dimensions": [
+                1221,
+                301
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "grain.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/grain.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 66344,
+            "dimensions": [
+                220,
+                220
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "attractive-black-teen-guy-in-casual-wear-listening-2022-01-30-08-42-49-utc_isolated.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/attractive-black-teen-guy-in-casual-wear-listening-2022-01-30-08-42-49-utc_isolated.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 58359,
+            "dimensions": [
+                609,
+                409
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-black-teen-guy-in-casual-wear-listening-BQWJ7BD"
+        },
+        {
+            "filename": "cheerful-radio-host-gesturing-while-recording-podc-2021-09-03-07-42-01-utc_isolated-e1665109044404.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/cheerful-radio-host-gesturing-while-recording-podc-2021-09-03-07-42-01-utc_isolated-e1665109044404.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 101883,
+            "dimensions": [
+                359,
+                312
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-radio-host-gesturing-while-recording-podc-LPW9EXE"
+        },
+        {
+            "filename": "award.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/award.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7082,
+            "dimensions": [
+                146,
+                74
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "temple-south-korea-2021-10-15-21-52-20-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2017\/06\/temple-south-korea-2021-10-15-21-52-20-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 292374,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/temple-south-korea-SMYAW25"
+        },
+        {
+            "filename": "chureito-red-pagoda-with-sakura-in-foreground-and-2021-08-31-15-08-54-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/chureito-red-pagoda-with-sakura-in-foreground-and-2021-08-31-15-08-54-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 141800,
+            "dimensions": [
+                960,
+                640
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chureito-red-pagoda-with-sakura-in-foreground-and--72KP7JF"
+        },
+        {
+            "filename": "professional-african-american-dj-in-headphones-wit-2022-01-18-23-50-13-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/professional-african-american-dj-in-headphones-wit-2022-01-18-23-50-13-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 226603,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professional-african-american-dj-in-headphones-wit-NWWYN83"
+        },
+        {
+            "filename": "man-working-on-radio-2021-09-01-09-33-18-utc_isolated.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/man-working-on-radio-2021-09-01-09-33-18-utc_isolated.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 163413,
+            "dimensions": [
+                720,
+                760
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-working-on-radio-QAMKD4M"
+        },
+        {
+            "filename": "man-eating-healthy-salad-on-the-kitchhen-at-home-2021-11-12-23-07-37-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/man-eating-healthy-salad-on-the-kitchhen-at-home-2021-11-12-23-07-37-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 156399,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-eating-healthy-salad-on-the-kitchhen-at-home-2DB34N9"
+        },
+        {
+            "filename": "image-of-young-happy-dj-man-wearing-headphones-wor-2021-08-30-02-26-03-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/image-of-young-happy-dj-man-wearing-headphones-wor-2021-08-30-02-26-03-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 175683,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-young-happy-dj-man-wearing-headphones-wor-QKZDPNT"
+        },
+        {
+            "filename": "emotional-surprised-cheerful-young-male-tourist-ke-2022-02-08-04-02-26-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/emotional-surprised-cheerful-young-male-tourist-ke-2022-02-08-04-02-26-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 167074,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/emotional-surprised-cheerful-young-male-tourist-ke-WSBH4K3"
+        },
+        {
+            "filename": "contemporary-headphones-in-neon-night-lighting-at-2021-09-04-03-40-38-utc_isolated.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/contemporary-headphones-in-neon-night-lighting-at-2021-09-04-03-40-38-utc_isolated.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 35019,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contemporary-headphones-in-neon-night-lighting-at--HXXEEWU"
+        },
+        {
+            "filename": "two_phone_image.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/two_phone_image.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 46755,
+            "dimensions": [
+                492,
+                538
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "google_play_Store_badge.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/google_play_Store_badge.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 6104,
+            "dimensions": [
+                245,
+                73
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Download_on_the_app_store.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/Download_on_the_app_store.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 4405,
+            "dimensions": [
+                244,
+                73
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_1.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_1.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 171677,
+            "dimensions": [
+                780,
+                779
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_2.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_2.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 144520,
+            "dimensions": [
+                767,
+                766
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_3.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_3.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 105165,
+            "dimensions": [
+                777,
+                777
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_4.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_4.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 123459,
+            "dimensions": [
+                782,
+                782
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_6.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_6.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 164405,
+            "dimensions": [
+                780,
+                779
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_12.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_12.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 122712,
+            "dimensions": [
+                780,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_7.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_7.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 115429,
+            "dimensions": [
+                784,
+                784
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_8.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_8.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 156144,
+            "dimensions": [
+                783,
+                783
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "african-radio-host-sitting-at-desk-recording-in-st-2022-11-19-08-13-46-utc-e1690341950345.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2023\/07\/african-radio-host-sitting-at-desk-recording-in-st-2022-11-19-08-13-46-utc-e1690341950345-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 234695,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-radio-host-sitting-at-desk-recording-in-st-6JXZE3Z"
+        },
+        {
+            "filename": "indonesian-flag-waving-on-top-mountain-2021-09-04-10-35-37-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2017\/06\/indonesian-flag-waving-on-top-mountain-2021-09-04-10-35-37-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 238665,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/indonesian-flag-waving-on-top-mountain-QNQG8D8"
+        },
+        {
+            "filename": "music-vinyl-record-man-holding-black-vinyl-record-2022-08-01-04-33-21-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/music-vinyl-record-man-holding-black-vinyl-record-2022-08-01-04-33-21-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                }
+            ],
+            "filesize": 159520,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/music-vinyl-record-man-holding-black-vinyl-record--SWPQJ2A"
+        },
+        {
+            "filename": "young-asian-man-traveler-with-backpack-in-reservoi-2021-08-30-15-39-48-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/young-asian-man-traveler-with-backpack-in-reservoi-2021-08-30-15-39-48-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 165222,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-asian-man-traveler-with-backpack-in-reservoi-MJEEF4Y"
+        },
+        {
+            "filename": "iPhone_screen.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2023\/07\/iPhone_screen.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 126672,
+            "dimensions": [
+                682,
+                1380
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "breadcrumb.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/breadcrumb.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 798,
+            "dimensions": [
+                29,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "cheerful-radio-presenter-with-coffee-2021-09-24-04-06-34-utc_isolated-e1664860035694.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/cheerful-radio-presenter-with-coffee-2021-09-24-04-06-34-utc_isolated-e1664860035694.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/blog-podcast-1.json",
+                    "name": "Blog \/ Podcast 1"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 114324,
+            "dimensions": [
+                350,
+                380
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-radio-presenter-with-coffee-K6KYJ9Q"
+        },
+        {
+            "filename": "cheerful-radio-host-gesturing-while-recording-podc-2021-09-03-07-42-01-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/cheerful-radio-host-gesturing-while-recording-podc-2021-09-03-07-42-01-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 138883,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-radio-host-gesturing-while-recording-podc-LPW9EXE"
+        },
+        {
+            "filename": "cheerful-blogger-using-mic-for-podcast-2021-09-04-03-50-50-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/cheerful-blogger-using-mic-for-podcast-2021-09-04-03-50-50-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                }
+            ],
+            "filesize": 148764,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-blogger-using-mic-for-podcast-RP775ZM"
+        },
+        {
+            "filename": "happy-asia-girl-record-a-podcast-with-headphones-a-2021-09-02-07-17-51-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/happy-asia-girl-record-a-podcast-with-headphones-a-2021-09-02-07-17-51-utc-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 155051,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-asia-girl-record-a-podcast-with-headphones-a-2N2VD3L"
+        },
+        {
+            "filename": "man-winks-and-points-his-finger-at-camera-on-orang-2022-02-07-10-20-25-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/man-winks-and-points-his-finger-at-camera-on-orang-2022-02-07-10-20-25-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                }
+            ],
+            "filesize": 101058,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-winks-and-points-his-finger-at-camera-on-orang-7F9KKA4"
+        },
+        {
+            "filename": "woman-working-at-radio-2021-09-01-07-48-17-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/woman-working-at-radio-2021-09-01-07-48-17-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 202487,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-at-radio-7EYWL28"
+        },
+        {
+            "filename": "handsome-radio-host-gesturing-while-speaking-in-mi-2021-09-15-00-45-32-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/handsome-radio-host-gesturing-while-speaking-in-mi-2021-09-15-00-45-32-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 149745,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-radio-host-gesturing-while-speaking-in-mi-XD6LB63"
+        },
+        {
+            "filename": "news-radio-a-man-in-headphones-works-in-a-studio-u-2022-03-02-21-18-02-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/news-radio-a-man-in-headphones-works-in-a-studio-u-2022-03-02-21-18-02-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 118563,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/news-radio-a-man-in-headphones-works-in-a-studio-u-7WYMPZM"
+        },
+        {
+            "filename": "teenager-wearing-headphones-and-playing-online-vid-2022-01-19-00-21-34-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/teenager-wearing-headphones-and-playing-online-vid-2022-01-19-00-21-34-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 171787,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teenager-wearing-headphones-and-playing-online-vid-B7R8MCN"
+        },
+        {
+            "filename": "attractive-black-teen-guy-in-casual-wear-listening-2022-01-30-08-42-49-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/attractive-black-teen-guy-in-casual-wear-listening-2022-01-30-08-42-49-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/single-program.json",
+                    "name": "Single Program"
+                }
+            ],
+            "filesize": 119766,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-black-teen-guy-in-casual-wear-listening-BQWJ7BD"
+        },
+        {
+            "filename": "african-guy-listening-music-using-smartphone-weari-2021-09-03-07-41-56-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/african-guy-listening-music-using-smartphone-weari-2021-09-03-07-41-56-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 126996,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-guy-listening-music-using-smartphone-weari-M48AT54"
+        },
+        {
+            "filename": "young-happy-surprised-brunet-men-in-white-t-shirts-2022-02-04-12-06-09-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/young-happy-surprised-brunet-men-in-white-t-shirts-2022-02-04-12-06-09-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 231511,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-happy-surprised-brunet-men-in-white-t-shirts-GZS9YBL"
+        },
+        {
+            "filename": "father-s-day-international-holiday-concept-2022-01-17-17-02-15-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/father-s-day-international-holiday-concept-2022-01-17-17-02-15-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast-2.json",
+                    "name": "Podcast 2"
+                },
+                {
+                    "source": "templates\/programs.json",
+                    "name": "Programs"
+                }
+            ],
+            "filesize": 154676,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fathers-day-international-holiday-concept-B7QUTE7"
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2023\/07\/transparent.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                }
+            ],
+            "filesize": 1157,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_5.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_5.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 109488,
+            "dimensions": [
+                785,
+                784
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_10.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_10.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 141070,
+            "dimensions": [
+                780,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_11.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_11.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 129811,
+            "dimensions": [
+                780,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_9.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/collection-of-portraits-with-cheerful-millennials-2022-02-05-12-55-28-utc_9.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 106714,
+            "dimensions": [
+                780,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-portraits-with-cheerful-millennials--P3RKYH9"
+        },
+        {
+            "filename": "download_vector.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/download_vector.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 1383,
+            "dimensions": [
+                120,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "achthung_vector.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/achthung_vector.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 667,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "radio_vector.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/radio_vector.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 1293,
+            "dimensions": [
+                100,
+                105
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "monitor_vector.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/monitor_vector.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                }
+            ],
+            "filesize": 951,
+            "dimensions": [
+                115,
+                98
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "cheerful-black-guy-shouting-in-loudspeaker-and-poi-2022-02-03-00-23-18-utc_isolated.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/podsay\/wp-content\/uploads\/sites\/31\/2022\/06\/cheerful-black-guy-shouting-in-loudspeaker-and-poi-2022-02-03-00-23-18-utc_isolated.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-list.json",
+                    "name": "Pricing List"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 77027,
+            "dimensions": [
+                521,
+                479
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-black-guy-shouting-in-loudspeaker-and-poi-ND462YY"
+        }
+    ]
+}
